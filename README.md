@@ -1,11 +1,31 @@
-# Neural-network-practice
-I'm exploring neural networks within python starting with the basics. I have attached work within this repository of the major steps within my development
+Neural Network Practice
+This repository contains my work while learning the fundamentals of neural networks, machine learning, and deep learning.
 
-I have attached some of my findings so far hence they are all uploaded on the same date. Future work will be attached once completed which I believe shows development in my coding skills
+The work is organised into separate branches based on the tools and frameworks being used.
 
-Learning about:
-- Tensors
-- Gradients
-- Backpropogation
-- Optimisers
-- Training loops
+Branches:
+NumPy:
+Practice exercises focused on understanding the mathematical foundations of neural networks from scratch using NumPy.
+
+Torch:
+Practice exercises focused on building and training neural networks using PyTorch.
+
+Purpose:
+This repository serves as a learning log and development journal as I improve my understanding of:
+
+- Neural networks
+- Machine learning concepts
+- Backpropagation
+- Optimisation
+- NumPy
+- PyTorch
+- 
+The code in this repository consists primarily of experiments, exercises, and learning tasks completed during my studies.
+
+Technologies:
+- Python
+- NumPy
+- PyTorch
+  
+Author:
+Ethan
