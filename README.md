@@ -1,6 +1,22 @@
-# Neural-network-practice
-I'm exploring neural networks within python starting with the basics. I have attached work within this repository of the major steps within my development
+PyTorch Neural Network Practice
+This repository contains my practice work while learning neural networks with PyTorch.
 
-I have attached some of my findings so far hence they are all uploaded on the same date. Future work will be attached once completed which I believe shows development in my coding skills
+The exercises focus on understanding how neural networks are built and trained using PyTorch, including tensors, gradients, backpropagation, and optimisation.
 
+Topics Covered
+Tensors
+Linear layers
+Loss functions
+Backpropagation
+Gradient calculation
+Optimisers
+Training loops
+PyTorch fundamentals
+Purpose
+This repository documents my progress while learning machine learning and neural network development with PyTorch. The code consists of exercises, experiments, and small projects completed during my studies.
 
+Technologies
+Python
+PyTorch
+Notes
+This repository is intended as a learning log. Some files may be simple practice tasks and will likely be improved or expanded as I continue developing my skills.
